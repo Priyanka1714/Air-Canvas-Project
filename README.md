@@ -18,6 +18,8 @@ Optional: Add gesture controls for clearing the canvas or changing colors.
 
 Applications: Virtual drawing boards, touchless control systems, interactive art tools, and educational tech.
 
+OUTPUT:
+
 <img width="660" height="639" alt="Screenshot 2025-08-13 165225" src="https://github.com/user-attachments/assets/5c745a35-0342-41e3-bfa2-c81d0a3d0127" />
 
 
